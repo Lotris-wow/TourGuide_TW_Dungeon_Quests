@@ -1,0 +1,16 @@
+## Interface: 11200
+
+## Title: TourGuide_TW_Dungeon_Quests
+## Notes: Turtle-WOW Dungeon Quests 
+## Author: Lotris
+## Version: 1.0
+## X-Credits: Tekkub
+## X-Category: Dungeon Quests
+
+## RequiredDeps: TourGuideVanilla
+## OptionalDeps: Dongle, TomTom
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+Guides.xml
